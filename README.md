@@ -1,9 +1,9 @@
 ## Team Profile Generator
 
 
-To be able to generate things with the help of node.js, making everything so much easier.
-This is for learning purposes and learning how to utilize various things such as node and inquirer.
-This creates a readME.md based on the users input.
+To be able to generate a Team Profile incorporating a Manager, Engineer and an Intern. All with the help of node.js, testing it using jest, and running npm run test.
+This is for learning purposes and learning how to utilize various things such as node , jest and inquirer.
+This creates a Team Profile based on the users input.
 
 
 ## Table of Contents 
@@ -23,10 +23,10 @@ https://www.npmjs.com/package/inquirer
 
 This google drive link is for the tutorial!
 
-  https://drive.google.com/file/d/1gBbLwjdnaYNCoTmOJkC_EEPPTrYeQaos/view?usp=sharing
+https://drive.google.com/file/d/18NuohSM5V-I8uWMI-hb3NPvXJQNqWDAF/view?usp=sharing
   
 
- <img src="file:///C:/Users/Daniel/Pictures/Screenshot_100.png"/>
+ <img src="https://raw.githubusercontent.com/wickedslug883/TeamProfileGen/main/images/Screenshot_100.png"/>
   
 
 
